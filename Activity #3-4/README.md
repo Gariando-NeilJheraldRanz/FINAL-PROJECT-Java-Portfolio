@@ -1,0 +1,5 @@
+This Java program simulates a simple coffee shop rewards system using Object-Oriented Programming (OOP) concepts. The Customer class represents a customer with a name and reward points, and it uses a static variable to keep track of the total number of registered customers. The class includes constructors for creating customers with specific information as well as default values.
+
+The CoffeeShop class serves as the main program, where several customer objects are created and various actions are performed, such as adding reward points, redeeming free drinks, and displaying customer details. Customers earn points through purchases and can redeem rewards once they have accumulated enough points. The program also demonstrates the use of static variables and methods by tracking the total number of customers and showing how many rewards each customer can redeem.
+
+This program helps students understand core Java concepts, including classes, objects, constructors, methods, static members, and basic conditional logic.
